@@ -143,6 +143,7 @@ public class Hello : MonoBehaviour {
 >
 > 8.OnDestroy：当MonoBehaviour将被销毁时，这个函数被调用. OnDestroy只会在预先已经被激活的游戏物体上被调用。
 >实验过程如下图：
+>
 >![Alt text](./4.jpeg)
 
 <li>查找脚本手册，了解 GameObject，Transform，Component 对象
