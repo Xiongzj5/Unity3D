@@ -173,4 +173,4 @@ public class Moon : MonoBehaviour {
 ```
 
 以下是运行时的截图，轨迹是添加的组件Trail Render所显示出来的
-![Alt text](./solarsystem.png)
+![Alt text](./Solarsystem.png)
